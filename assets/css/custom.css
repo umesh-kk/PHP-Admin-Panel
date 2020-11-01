@@ -1,0 +1,16 @@
+.toggle-on.btn-sm{
+  padding-right : 10px!important;
+}
+.toggle-off.btn-sm {
+  padding-left: 11px!important;
+}
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20px; }
+.toggle.ios .toggle-handle { border-radius: 20px; }
+
+.actions a:hover {
+  color: #224abe;
+  text-decoration: none;
+}
+.errorborder{
+  border: 1px solid #FF0000!important;
+}
